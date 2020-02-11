@@ -1,2 +1,2 @@
-# meu-primeiro-app
+# segundo-primeiro-app
 Repositório para aprendizado
