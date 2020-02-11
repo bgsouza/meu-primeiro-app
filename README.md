@@ -1,5 +1,5 @@
 # segundo-primeiro-app
-Repositório para aprendizado
+Repositório para aprendizado.
 
 # Mudança do Bruno
 Lalalala
