@@ -1,5 +1,13 @@
-const App = function {
-    console.log("Olá Mundo")
-}
+const App = {
+    init() {
+     console.log("Init")
+    },
 
-App();
+    calcula(a,b) {
+     return a+b;
+    } 
+ }
+
+ App.init()
+ 
+ 
