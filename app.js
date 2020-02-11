@@ -3,9 +3,13 @@ const App = {
      console.log("Init")
     },
 
-    calcula(a,b) {
+    soma(a,b) {
      return a+b;
-    } 
+    },
+
+    divide(a,b) {
+     return a/b;
+    }
  }
 
  App.init()

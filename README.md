@@ -1,5 +1,5 @@
-# segundo-primeiro-app
-Repositório para aprendizado.
+# meu-primeiro-app
+Repositório para aprendizado e testes.
 
 # Mudança do Bruno
 Lalalala
